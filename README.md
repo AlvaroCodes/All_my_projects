@@ -1,7 +1,8 @@
-📚🌟💼 All my projects 📚🌟💼
+# 📚🌟💼 All my projects 📚🌟💼
 This repository showcases a curated selection of my personal and professional projects, highlighting my skills in various domains. It serves as a comprehensive portfolio demonstrating my technical expertise, creativity, and problem-solving abilities.
 
-# Simple blog with Vue.js and Tailwind CSS.
+## Vue
+### Simple blog with Vue.js and Tailwind CSS.
 ✨ Site: https://alvarocodes.github.io/blog-vue-tailwind-simple/  
 
 📂 Repositories: https://github.com/AlvaroCodes/blog-vue-tailwind-simple  
