@@ -12,3 +12,13 @@ This repository showcases a curated selection of my personal and professional pr
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 </details>
+
+<details>
+  <summary>Simple Vue.js Router and Tailwind.</summary>
+  
+  ✨ Site: https://alvarocodes.github.io/poke-vuejs-router/  
+
+📂 Repositories: https://github.com/AlvaroCodes/poke-vuejs-router/
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+</details>
