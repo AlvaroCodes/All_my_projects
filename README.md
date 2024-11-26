@@ -1,7 +1,7 @@
 # 📚🌟💼 All my projects 📚🌟💼
 This repository showcases a curated selection of my personal and professional projects, highlighting my skills in various domains. It serves as a comprehensive portfolio demonstrating my technical expertise, creativity, and problem-solving abilities.
 
-## <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="20" height="20"> Bundlers
+## <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="20" height="20"> Bundlers (Webpack y ViteJS)
 
 <details>
   <summary>Maplibre GL JS with Webpack y HMR</summary>
