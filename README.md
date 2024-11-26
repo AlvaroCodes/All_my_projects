@@ -6,7 +6,7 @@ This repository showcases a curated selection of my personal and professional pr
 <details>
   <summary>Maplibre GL JS with Webpack y HMR</summary>
   
-📂 Repositories: [https://github.com/AlvaroCodes/poke-vuejs-router/](https://github.com/AlvaroCodes/MapLibre-Webpack)
+📂 Repositories: https://github.com/AlvaroCodes/MapLibre-Webpack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
