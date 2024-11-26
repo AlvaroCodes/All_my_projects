@@ -23,6 +23,17 @@ This repository showcases a curated selection of my personal and professional pr
 
 </details>
 
+
+<details>
+  <summary>Webpack-start-project</summary>
+  
+📂 Repositories: https://github.com/AlvaroCodes/webpack-start-project
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
+
+</details>
+
 ## <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="22" height="25"> NodeJS
 <details>
   <summary>CLI CHANGELOG</summary>
@@ -33,8 +44,6 @@ This repository showcases a curated selection of my personal and professional pr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 
 </details>
-
-
 
 ## <img src="https://vuejs.org/images/logo.png" width="20" height="20"> Vue.js
 
