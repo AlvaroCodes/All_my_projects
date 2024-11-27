@@ -46,6 +46,20 @@ This repository showcases a curated selection of my personal and professional pr
 </details>
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> React
+
+<details>
+  <summary>SPA RouterV6 KimetsuNoYaiba</summary>
+  
+📂 Repositories: https://github.com/AlvaroCodes/SPA-Router-v6-KimetsuNoYaiba  
+
+✨ Site: https://alvarocodes.github.io/SPA-Router-v6-KimetsuNoYaiba/
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
+
+</details>
+
 <details>
   <summary>CRUD Barbershop</summary>
   
