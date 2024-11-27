@@ -45,6 +45,18 @@ This repository showcases a curated selection of my personal and professional pr
 
 </details>
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> React
+<details>
+  <summary>CRUD Barbershop</summary>
+  
+📂 Repositories: https://github.com/AlvaroCodes/CRUD-barbershop-React/
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
+
+</details>
+
 ## <img src="https://vuejs.org/images/logo.png" width="20" height="20"> Vue.js
 
 <details>
