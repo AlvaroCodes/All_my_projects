@@ -47,6 +47,12 @@ This repository showcases a curated selection of my personal and professional pr
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> React
 
+**📚 Courses**  
+
+https://github.com/AlvaroCodes/Courses-React/
+
+**🛠️ Other projects**
+
 <details>
   <summary>SPA RouterV6 KimetsuNoYaiba</summary>
   
