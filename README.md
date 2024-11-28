@@ -75,6 +75,18 @@ https://github.com/AlvaroCodes/Courses-React/
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 </details>
 
+## <img src="https://miro.medium.com/v2/resize:fit:1400/1*nLbfO_PdTSpeCdZQuUr8RQ.png" width="22" height="22"> Astro
+
+<details>
+  
+  <summary>Porfolio</summary>
+  
+📂 Repositories: https://github.com/AlvaroCodes/armDEV_porfolio
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
+</details>
+
 # Back end Projects
 
 ## <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="22" height="25"> NodeJS
