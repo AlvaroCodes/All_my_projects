@@ -1,14 +1,14 @@
 # 📚🌟💼 All my projects 📚🌟💼
 This repository showcases a curated selection of my personal and professional projects, highlighting my skills in various domains. It serves as a comprehensive portfolio demonstrating my technical expertise, creativity, and problem-solving abilities.
 
-# Front end Projects
+# 1. Front end Projects
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20" height="22"> TypeScript
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20" height="22"> 1.1. TypeScript
 
 **📚 Courses**  
 https://github.com/AlvaroCodes/Courses-TypeScript
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> React
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> 1.2. React
 
 **📚 Courses**  
 
@@ -53,7 +53,7 @@ https://github.com/AlvaroCodes/Courses-React/
 
 </details>
 
-## <img src="https://vuejs.org/images/logo.png" width="20" height="20"> Vue.js
+## <img src="https://vuejs.org/images/logo.png" width="20" height="20"> 1.3. Vue.js
 
 <details>
   <summary>Simple Vue.js Router, 🍍 Pinia and Tailwind</summary>
@@ -75,7 +75,7 @@ https://github.com/AlvaroCodes/Courses-React/
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 </details>
 
-## <img src="https://miro.medium.com/v2/resize:fit:1400/1*nLbfO_PdTSpeCdZQuUr8RQ.png" width="22" height="22"> Astro
+## <img src="https://miro.medium.com/v2/resize:fit:1400/1*nLbfO_PdTSpeCdZQuUr8RQ.png" width="22" height="22"> 1.4. Astro
 
 <details>
   
@@ -87,9 +87,9 @@ https://github.com/AlvaroCodes/Courses-React/
 
 </details>
 
-# Back end Projects
+# 2. Back end Projects
 
-## <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="22" height="25"> NodeJS
+## <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="22" height="25"> 2.1. NodeJS
 
 <details>
   <summary>Scraper Rugby Spain</summary>
@@ -111,7 +111,7 @@ https://github.com/AlvaroCodes/Courses-React/
 
 </details> 
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="35" height="20"> PHP
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="35" height="20">2.2. PHP
 
 </details>
 
@@ -126,7 +126,7 @@ https://github.com/AlvaroCodes/Courses-React/
 </details> 
 
 
-# Other Projects
+# 3. Other Projects
 
 ## <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="20" height="20"> Bundlers (Webpack y ViteJS)
 
