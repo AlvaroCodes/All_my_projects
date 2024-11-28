@@ -128,7 +128,7 @@ https://github.com/AlvaroCodes/Courses-React/
 
 # 3. Other Projects
 
-## <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="20" height="20"> Bundlers (Webpack y ViteJS)
+## 3.1. <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="20" height="20"> Bundlers (Webpack y ViteJS)
 
 <details>
   <summary>Maplibre GL JS with Webpack y HMR</summary>
