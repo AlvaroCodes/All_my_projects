@@ -3,6 +3,10 @@ This repository showcases a curated selection of my personal and professional pr
 
 # Front end Projects
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20" height="22"> TypeScript
+
+**📚 Courses**  
+https://github.com/AlvaroCodes/Courses-TypeScript
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> React
 
