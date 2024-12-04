@@ -8,7 +8,12 @@ This repository showcases a curated selection of my personal and professional pr
 **📚 Courses**  
 https://github.com/AlvaroCodes/Courses-TypeScript
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> 1.2. React
+## <img src="https://images.ctfassets.net/zojzzdop0fzx/2LzaUqPdXBjtAbFTaDGbW0/a8b4fbfd6ccab7d6de4c3b0803a35ae5/angular_gradient.svg" width="25" height="25"> 1.2. Angular
+
+**📚 Courses**  
+https://github.com/AlvaroCodes/Courses-Angular
+
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> 1.3. React
 
 **📚 Courses**  
 
@@ -53,7 +58,7 @@ https://github.com/AlvaroCodes/Courses-React/
 
 </details>
 
-## <img src="https://vuejs.org/images/logo.png" width="20" height="20"> 1.3. Vue.js
+## <img src="https://vuejs.org/images/logo.png" width="20" height="20"> 1.4. Vue.js
 
 <details>
   <summary>Simple Vue.js Router, 🍍 Pinia and Tailwind</summary>
@@ -75,7 +80,7 @@ https://github.com/AlvaroCodes/Courses-React/
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 </details>
 
-## <img src="https://miro.medium.com/v2/resize:fit:1400/1*nLbfO_PdTSpeCdZQuUr8RQ.png" width="22" height="22"> 1.4. Astro
+## <img src="https://miro.medium.com/v2/resize:fit:1400/1*nLbfO_PdTSpeCdZQuUr8RQ.png" width="22" height="22"> 1.5. Astro
 
 <details>
   
