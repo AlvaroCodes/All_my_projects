@@ -5,18 +5,18 @@ This repository showcases a curated selection of my personal and professional pr
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="20" height="22"> 1.1. TypeScript
 
-**📚 Courses**  
-- https://github.com/AlvaroCodes/Courses-TypeScript
+
+[**📚 Courses**](https://github.com/AlvaroCodes/Courses-TypeScript)  
+
 
 ## <img src="https://images.ctfassets.net/zojzzdop0fzx/2LzaUqPdXBjtAbFTaDGbW0/a8b4fbfd6ccab7d6de4c3b0803a35ae5/angular_gradient.svg" width="25" height="25"> 1.2. Angular
 
-**📚 Courses**  
-- https://github.com/AlvaroCodes/Courses-Angular
+[**📚 Courses**](https://github.com/AlvaroCodes/Courses-Angular)  
+- 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> 1.3. React
 
-**📚 Courses**  
-- https://github.com/AlvaroCodes/Courses-React/
+[**📚 Courses**](https://github.com/AlvaroCodes/Courses-React/)  
 
 **🛠️ Other projects**
 
