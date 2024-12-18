@@ -12,7 +12,6 @@ This repository showcases a curated selection of my personal and professional pr
 ## <img src="https://images.ctfassets.net/zojzzdop0fzx/2LzaUqPdXBjtAbFTaDGbW0/a8b4fbfd6ccab7d6de4c3b0803a35ae5/angular_gradient.svg" width="25" height="25"> 1.2. Angular
 
 [**📚 Courses**](https://github.com/AlvaroCodes/Courses-Angular)  
-- 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="24" height="20"> 1.3. React
 
